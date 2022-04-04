@@ -13,3 +13,11 @@
 .container-util {
   border-radius: .5rem;
 }
+
+.bg-util {
+  background-color: var(--ut-main);
+}
+
+.text-util {
+  color: var(--ut-main);
+}
